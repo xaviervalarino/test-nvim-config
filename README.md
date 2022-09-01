@@ -1,5 +1,5 @@
 # Minimal config test rig
-A setup script and directory for testing out minimal NeoVim configurations
+A setup script for testing out minimal NeoVim configurations
 
 ## Getting started
 First, setup the environment. The setup script:
